@@ -1,7 +1,7 @@
 #👨🏻‍💻 Jonathas Rikelme
 *Desenvolvedor back-end*
 
-Meu nome é Moisés Carlos, tenho 18 anos e resido em Recife, PE. Atualmente, estou cursando o curso técnico em Desenvolvimento de Sistemas na instituição GrauTécnico. Sou profundamente interessado em tecnologia e estou constantemente em busca de aprimorar meus conhecimentos na área.
+Meu nome é Jonathas Rikelme, tenho 18 anos e resido em Recife, PE. Sou profundamente interessado em tecnologia e estou constantemente em busca de aprimorar meus conhecimentos na área.
 
 
 ### 🤖 Linguagens e Tecnologias
